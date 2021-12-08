@@ -32,4 +32,4 @@ name = "Tim"
 Name = "Bill"
 
 print(name)
-print(nam)
+# print(nam)
