@@ -1,13 +1,12 @@
 # Set the values of w, x, y, and z such that all of the condition_ variables evaluate to True.
 # Only use integer values.
 
-'''
-w = -1  # <- Change this
-x = -1  # <- Change this
-y = -1  # <- Change this
-z = -1  # <- Change this
-'''
+# w = -1  # <- Change this
+# x = -1  # <- Change this
+# y = -1  # <- Change this
+# z = -1  # <- Change this
 
+# There are many different correct answers; this is simply one of them.
 w = 1
 x = 1
 y = 3
