@@ -1,3 +1,6 @@
+# Set the values of w, x, y, and z such that all of the condition_ variables evaluate to True.
+# Only use boolean values.
+
 # w = None  # <- Change this
 # x = None  # <- Change this
 # y = None  # <- Change this

@@ -6,6 +6,14 @@
 
 # If the user doesn't enter a number between 10 and 20, your program shouldn't print anything.
 
+# Note: when printing the sum of the two numbers, please display the sum as a float. 
+
+# You'll have to use the following strings:
+# 1) "Enter a number: "
+# 2) "Enter another number: "
+# 3) "The sum of these two numbers is: "
+# 4) "That is a large sum!"
+
 number1 = float(input("Enter a number: "))
 # we use float() instead of int() to make sure if the user
 # enters a float like: 2.1, 0.3 or 4.5 the program doesn't crash
