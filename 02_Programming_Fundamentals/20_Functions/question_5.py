@@ -2,6 +2,10 @@
 # of the input list where the last elements_to_trim elements have been removed.  You can assume that
 # elements_to_trim will always be a positive integer that's smaller than the length of lst.
 
+##### Sample Output #####
+# >>> trim_list([1, 3, 34, "hi", "yes", True, 2.3], 3)
+# [1, 3, 34, "hi"]
+
 ##### Solution 1 #####
 # def trim_list(lst, elements_to_trim):
 #     trimmed_list = []

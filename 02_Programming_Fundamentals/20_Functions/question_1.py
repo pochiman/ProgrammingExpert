@@ -1,6 +1,10 @@
 # Write a function named add that takes in two parameters x and y, both expected
 # to be numbers.  Your function should add the two numbers and return the result.
 
+##### Sample Output #####
+# >>> add(5, 4)
+# 9
+
 ##### Solution 1 #####
 # def add(x, y):
 #     return x + y

@@ -7,6 +7,41 @@
 # If the division doesn't raise any exceptions, the program should print the result of the division.
 # And regardless of outcome, the program should tell the user goodbye!
 
+##### Sample Program Execution 1 #####
+# Enter the numerator: 5
+# Enter the denominator: 0
+# You cannot divide by 0.
+# This division cannot be performed.
+# Goodbye!
+
+##### Sample Program Execution 2 #####
+# Enter the numerator: hello
+# Enter the denominator: 2
+# The numerator is not a number.
+# This division cannot be performed.
+# Goodbye!
+
+##### Sample Program Execution 3 #####
+# Enter the numerator: 3
+# Enter the denominator: 7.h
+# The denominator is not a number.
+# This division cannot be performed.
+# Goodbye!
+
+##### Sample Program Execution 4 #####
+# Enter the numerator: h
+# Enter the denominator: 7.h
+# The numerator is not a number.
+# The denominator is not a number.
+# This division cannot be performed.
+# Goodbye!
+
+##### Sample Program Execution 5 #####
+# Enter the numerator: 4
+# Enter the denominator: 2.0
+# The result of this division is 2.0.
+# Goodbye!
+
 # You'll have to use the following strings:
 # 1) "Enter the numerator: "
 # 2) "Enter the denominator: "

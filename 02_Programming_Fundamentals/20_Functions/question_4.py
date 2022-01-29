@@ -3,6 +3,16 @@
 
 # You can assume that the input lists will only contain integers.
 
+##### Sample Output #####
+# >>> compare_lists([1, 2, 3], [1, 1, 1])
+# 1 # 1
+# >>> compare_lists([1, 2, 3], [1, 3, 1])
+# 2 # 1 and 3
+# >>> compare_lists([1, 2, 3])
+# 0
+# >>> compare_lists(lst2=[1, 1, 1])
+# 0
+
 ##### Solution 1 #####
 # def compare_lists(lst1=[], lst2=[]):
 #     lst1_set = set(lst1)
