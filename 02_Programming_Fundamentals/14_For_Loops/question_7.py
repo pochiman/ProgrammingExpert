@@ -4,6 +4,13 @@
 # Provided List
 lst = [[2, 3, 4], [-2, -4, 0], [1, 2], [1, 1, 1, 5, 6], [0, 9, 8, 7]]
 
+##### Expected Output #####
+# 9
+# -6
+# 3
+# 14
+# 24
+
 for inner_list in lst:
     sum_of_inner_list = 0
 

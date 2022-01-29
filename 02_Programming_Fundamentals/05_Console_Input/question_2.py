@@ -3,6 +3,10 @@
 
 # Note: Please ensure you store the user input in a variable called name.
 
+##### Sample Program Execution #####
+# What is your name? Tim
+# Hello, Tim
+
 # You'll have to use the following strings:
 # 1) "What is your name? "
 # 2) "Hello, _"

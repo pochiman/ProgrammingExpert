@@ -1,5 +1,13 @@
 # Use a while loop to print the squares of the numbers: 1, 3, 6, 10, 15 and 21.
 
+##### Expected Output #####
+# 1
+# 9
+# 36
+# 100
+# 225
+# 441
+
 ##### Solution 1 #####
 
 # nums = [1, 3, 6, 10, 15, 21]

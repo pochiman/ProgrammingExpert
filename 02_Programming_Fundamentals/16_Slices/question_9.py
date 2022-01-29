@@ -1,5 +1,8 @@
 # Modify the w, x, y, and z variables such that the program outputs [8, 6, 4].
 
+##### Expected Output #####
+# [8, 6, 4]
+
 # w = None  # <- Change this
 # x = None  # <- Change this
 # y = None  # <- Change this

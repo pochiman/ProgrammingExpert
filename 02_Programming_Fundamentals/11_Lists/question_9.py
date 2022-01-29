@@ -6,6 +6,28 @@
 # Finally, the program should use these numbers to access the three strings at the corresponding 
 # indices in the previously created list, concatenate them, and print out the resulting string.
 
+##### Sample Program Execution 1 #####
+# Enter a string: tim
+# Enter a string: is
+# Enter a string: the
+# Enter a string: best
+# Enter a string: instructor
+# Enter a number: 1
+# Enter a number: 2
+# Enter a number: 4
+# istheinstructor
+
+##### Sample Program Execution 2 #####
+# Enter a string: tim
+# Enter a string: is
+# Enter a string: the
+# Enter a string: best
+# Enter a string: instructor
+# Enter a number: 2
+# Enter a number: 2
+# Enter a number: 2
+# thethethe
+
 # You'll have to use the following strings:
 # 1) "Enter a string: "
 # 2) "Enter a number: "

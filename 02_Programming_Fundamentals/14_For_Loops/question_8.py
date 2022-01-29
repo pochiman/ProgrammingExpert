@@ -6,6 +6,13 @@
 # Provided List
 lst = [-2, 0, 4, 5, 1, 2]
 
+##### Expected Output #####
+# -2
+# 4
+# 9
+# 6
+# 3
+
 for idx in range(len(lst) - 1):
     current_item = lst[idx]
     next_item = lst[idx + 1]

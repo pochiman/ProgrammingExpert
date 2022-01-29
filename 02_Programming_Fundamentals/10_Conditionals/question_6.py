@@ -8,6 +8,28 @@
 
 # Note: when printing the sum of the two numbers, please display the sum as a float. 
 
+##### Sample Program Execution 1 #####
+# Enter a number: 8
+
+##### Sample Program Execution 2 #####
+# Enter a number: 10
+# Enter another number: 15
+# The sum of these two numbers is: 25.0
+
+##### Sample Program Execution 3 #####
+# Enter a number: 17
+# Enter another number: 3
+# The sum of these two numbers is: 20.0
+
+##### Sample Program Execution 4 #####
+# Enter a number: 21
+
+##### Sample Program Execution 5 #####
+# Enter a number: 15
+# Enter another number: 100
+# The sum of these two numbers is: 115.0
+# That is a large sum!
+
 # You'll have to use the following strings:
 # 1) "Enter a number: "
 # 2) "Enter another number: "

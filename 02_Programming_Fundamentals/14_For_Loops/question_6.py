@@ -4,6 +4,11 @@
 # Provided List
 lst = [45, 24, 22, 1, 45, 2, 12, 13, 16, 10, 0, -7]
 
+##### Expected Output #####
+# 24
+# 2
+# 10
+
 ##### Solution 1 #####
 # for idx in range(len(lst)):
 #     item = lst[idx]

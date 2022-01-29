@@ -5,6 +5,15 @@
 
 # If the user doesn't input a valid integer, the program should capitalize whatever they entered and print it.
 
+##### Sample Program Execution 1 #####
+# Enter an integer: 27
+# What is your name? tim
+# Hello, TIM
+
+##### Sample Program Execution 2 #####
+# Enter an integer: not a number
+# Not a number
+
 # You'll have to use the following strings:
 # 1) "Enter an integer: "
 # 2) "What is your name? "

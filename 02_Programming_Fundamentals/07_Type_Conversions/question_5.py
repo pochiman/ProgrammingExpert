@@ -1,6 +1,10 @@
 # Write a program that accepts any integer (using the input function),
 # adds 5 to it, and prints the resulting number on a new line.
 
+##### Sample Program Execution #####
+# Type a number: 5
+# 10
+
 ##### Solution 1 #####
 # str_number = input("Type a number: ")
 # int_number = int(str_number)

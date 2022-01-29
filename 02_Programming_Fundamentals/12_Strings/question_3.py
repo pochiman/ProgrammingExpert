@@ -1,6 +1,16 @@
 # Write a program that asks the user to input two words and 
 # determines if the first word is contained in the second one.
 
+##### Sample Program Execution 1 #####
+# Enter a word: algo
+# Enter another word: algoexpert
+# The first word is contained in the second one
+
+##### Sample Program Execution 2 #####
+# Enter a word: algo
+# Enter another word: algiexpert
+# The first word isn't contained in the second one
+
 # You'll have to use the following strings:
 # 1) "Enter a word: "
 # 2) "Enter another word: "

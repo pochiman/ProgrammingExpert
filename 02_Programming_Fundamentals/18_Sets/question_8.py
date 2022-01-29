@@ -3,6 +3,22 @@
 
 # Use a set to accomplish this.
 
+##### Sample Output 1 #####
+# Enter a character: ab
+# Number of unique characters entered: 0
+
+##### Sample Output 2 #####
+# Enter a character: a
+# Enter a character: ab
+# Number of unique characters entered: 1
+
+##### Sample Output 3 #####
+# Enter a character: a
+# Enter a character: b
+# Enter a character: c
+# Enter a character: b
+# Number of unique characters entered: 3
+
 # You'll have to use the strings:
 # "Enter a character: "
 # "Number of unique characters entered: _"

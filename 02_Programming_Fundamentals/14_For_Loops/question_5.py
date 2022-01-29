@@ -5,6 +5,14 @@
 string1 = "aabbcsdw"
 string2 = "abbbcsdd"
 
+##### Expected Output #####
+# a
+# b
+# b
+# c
+# s
+# d
+
 for idx in range(len(string1)):
     character1 = string1[idx]
     character2 = string2[idx]
