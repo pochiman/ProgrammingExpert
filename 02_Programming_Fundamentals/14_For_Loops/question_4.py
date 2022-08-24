@@ -3,9 +3,6 @@
 # First print all of the list items, then all of the string characters, then all of the tuple items.
 
 # Provided List, String, and Tuple
-from time import time
-
-
 lst = ["tim", "is", "the", "best", "instructor"]
 string = "..."
 tupl = ("and", "he", "is", "great")

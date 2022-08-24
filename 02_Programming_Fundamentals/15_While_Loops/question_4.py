@@ -28,4 +28,4 @@ while num <= 21:
     print(num * num)
 
     num += step
-    step += 1    
+    step += 1
