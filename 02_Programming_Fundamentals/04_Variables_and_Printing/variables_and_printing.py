@@ -29,6 +29,10 @@ print(num)
 print(num, y)
 
 name = "Tim"
+name2 = "Bill"
+name_two = "bill"
+
+name = "Tim"
 Name = "Bill"
 
 print(name)
