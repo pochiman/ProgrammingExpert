@@ -1,4 +1,4 @@
-# Key Term
+# Key Terms
 
 # [Operator]
 An `operator` is a symbol that indicates an operation to be performed.
