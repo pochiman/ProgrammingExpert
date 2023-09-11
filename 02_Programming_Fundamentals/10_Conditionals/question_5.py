@@ -27,10 +27,10 @@
 fav_language = input("What's your favorite programming language? ")
 
 if fav_language == "Python":
-  print("Nice choice!")
+    print("Nice choice!")
 elif fav_language == "Golang":
-  print("You're a cool kid I see...")
+     print("You're a cool kid I see...")
 elif fav_language == "JavaScript":
-  print("Okay Mr. web developer.")
+     print("Okay Mr. web developer.")
 else:
-  print("I don't know that language.")
+    print("I don't know that language.")

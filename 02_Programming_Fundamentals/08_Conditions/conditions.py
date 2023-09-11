@@ -1,17 +1,27 @@
 cond = 2 == 3  # False
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = 3 == 3  # True
 print(cond)
+
+##### ##### ##### ##### #####
 
 cond = 3.0 == 3  # True
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = 3.0 != 3  # False
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = 3.1 != 3  # True
 print(cond)
+
+##### ##### ##### ##### #####
 
 x = 4
 y = 4
@@ -20,13 +30,19 @@ cond = x != y  # False
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = x != 9  # True
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = x < 9  # True
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 x = 9
 y = 4
@@ -35,25 +51,37 @@ cond = x < 9  # False
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = x < 9.5  # True
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 cond = x > 9.5  # False
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = x + 2 > 9.5  # True
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 cond = x + 2 > 9.5 + 1  # True
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = x <= 9  # True
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 cond = x >= 9  # False
 
@@ -66,6 +94,8 @@ print(cond)
 cond = x == "6"  # False
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 cond = x != "6"  # True
 
@@ -82,9 +112,13 @@ cond = str1 == str2  # False
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = str1 != str2  # True
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 str1 = "hello"
 str2 = "hello "
@@ -93,6 +127,8 @@ cond = str1 == str2  # False
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 str1 = "hello"
 str2 = "hello"
 
@@ -100,12 +136,16 @@ cond = str1 < str2  # False
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 str1 = "a"
 str2 = "b"
 
 cond = str1 < str2  # True
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 str1 = "a"
 str2 = "B"
@@ -154,12 +194,16 @@ cond = str1 <= str2  # True because "A" is 65 and "a" is 97. string 1 is gonna b
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 str1 = "ABc"
 str2 = "ABC"
 
 cond = str1 <= str2  # False because lowercase "c" is greater than uppercase "C"
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 str1 = "ABc"
 str2 = "ABC"
@@ -168,6 +212,8 @@ cond = str1 > str2  # True
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = True == 1  # True because True really is one. 
 
 # When it comes to math and doing comparisons, we can assume that True is equal to one.
@@ -175,17 +221,25 @@ cond = True == 1  # True because True really is one.
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = False == 0  # True
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 cond = False == ""  # False
 
 print(cond)
 
+##### ##### ##### ##### #####
+
 cond = True == ""  # False
 
 print(cond)
+
+##### ##### ##### ##### #####
 
 cond = True == "True"  # False because they are different types.
 

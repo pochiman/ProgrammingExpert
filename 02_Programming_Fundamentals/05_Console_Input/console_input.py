@@ -1,11 +1,17 @@
-# number = input("Number: ")
-# print(number)
+number = input("Number: ")
+print(number)
 
-# name = input("Enter your name: ")
-# print("Hello,", name)
+##### ##### ##### ##### #####
 
-# name = input("Enter your name: ")
-# print(type(name))
+name = input("Enter your name: ")
+print("Hello,", name)
+
+##### ##### ##### ##### #####
+
+name = input("Enter your name: ")
+print(type(name))
+
+##### ##### ##### ##### #####
 
 input("Press enter to begin!")
 
