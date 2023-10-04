@@ -18,5 +18,5 @@ lst = [45, 24, 22, 1, 45, 2, 12, 13, 16, 10, 0, -7]
 
 ##### Solution 2 #####
 for idx, item in enumerate(lst):
-  if item % 2 == 0 and idx % 2 != 0:
-    print(item)
+    if item % 2 == 0 and idx % 2 != 0:
+        print(item)

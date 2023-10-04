@@ -33,13 +33,13 @@ tupl = ("and", "he", "is", "great")
 
 ##### Solution 2 #####
 for idx in range(len(lst)):
-  item = lst[idx]
-  print(item)
+    item = lst[idx]
+    print(item)
 
 for idx in range(len(string)):
-  character = string[idx]
-  print(character)
+    character = string[idx]
+    print(character)
 
 for idx in range(len(tupl)):
-  item = tupl[idx]
-  print(item)
+    item = tupl[idx]
+    print(item)
